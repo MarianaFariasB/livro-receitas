@@ -2,7 +2,7 @@
 
 ##### Livro criado para a aula prática de Introdução ao Git e GitHub da Digital Innovation One.
 
-Conteúdo das receitas:
+Conteúdo do livro:
 
 - _Panna Cotta_
 
